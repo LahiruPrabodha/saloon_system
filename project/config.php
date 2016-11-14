@@ -1,0 +1,1 @@
+<?php $config["database"] = "salon_db"; $config["host"]= "localhost";$config["username"]= "root"; $config["password"]= "mysql";?>
