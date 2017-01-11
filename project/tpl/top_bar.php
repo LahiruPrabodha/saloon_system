@@ -6,6 +6,7 @@
 			<ul id="nav" class="fl">
 	
 				<li class="v-sep"><a href="javascript:void(0);" onclick="javascript:window.open('shortcuts.html','myNewWinsr','width=600,height=110,toolbar=0,menubar=no,status=no,resizable=yes,location=no,directories=no,scrollbars=yes');" class="round button dark ic-info image-left">Show Shortcuts</a></li>
+				
 				<li class="v-sep"><a href="#" class="round button dark menu-user image-left">Logged in as <strong><?php echo $POSNIC['username'] ?></strong></a>
 					<ul>
 				
